@@ -1,6 +1,9 @@
 class School
+
   attr_accessor :roster, :add_student, :grade, :sort
-  ROSTER = {}
+
+  roster_hash = {}
+
   def initialize(roster)
     @roster = roster
   end
