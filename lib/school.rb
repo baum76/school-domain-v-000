@@ -1,5 +1,5 @@
 class School
-  
+
   def iniitialize
 
   end
